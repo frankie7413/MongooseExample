@@ -1,9 +1,12 @@
 # MongooseExample
 Mongoose tutorial based on http://mongoosejs.com/docs/ 
+Prereq:
+<p>Must have mongodb installed!</p>
+<p>Must have Nodejs installed!</p>
 
 How to install:
 <p>1. npm install</p>
-<p>2. Depending where you download the program you command for mongo would be similar to:</p>
+<p>2. Depending where you download the program your command for mongo should be similar to:</p>
 ```python
 mongod --dbpath /Users/franktosh/Desktop/mongooseExample/data/
 ```
