@@ -90,3 +90,4 @@ Kitten.find({ name: /^fluff/ }, function(err, cat){
   console.log('Searching for fluff...');
   console.log(cat[0].name);
 });
+// thanks very helpful!
